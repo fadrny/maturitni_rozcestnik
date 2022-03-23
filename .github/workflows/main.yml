@@ -15,4 +15,4 @@ jobs:
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
         protocol: ftps
-        server-dir: web/maturita
+        server-dir: web/maturita/
